@@ -1,0 +1,12 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/139/nnc1.0046979840/003.png"; bbox 0 0 2129 3182; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 836 2928 1300 3160">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 843 3086 1296 3147">
+     <span class='ocr_line' id='line_1_1' title="bbox 1293 3086 1295 3096; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1293 3086 1295 3096; x_wconf 55' lang='grc' dir='ltr'>ἲ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 848 3098 1296 3124; baseline -0.004 -5"><span class='ocrx_word' id='word_1_2' title='bbox 848 3101 852 3105; x_wconf 77' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 876 3101 921 3124; x_wconf 48' lang='grc' dir='ltr'><em>σεε.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1292 3098 1296 3117; x_wconf 62' lang='lat'>2</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 843 3123 922 3147; baseline 0 -5"><span class='ocrx_word' id='word_1_5' title='bbox 843 3135 858 3147; x_wconf 40' lang='grc' dir='ltr'><em>,α</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 900 3123 922 3142; x_wconf 61' lang='grc' dir='ltr'><em>ρ’</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
